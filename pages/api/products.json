@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Office GIF pack",
+    "price": "0.09",
+    "description": "Get this fire gif pack for only $0.09! Includes 3 hot office GIFs!",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5dGRQK9z2ojNSQz-DIQ1fNj3OWhfgnM_qzWidKyI8s-ELVbh2i5L6B6j2rDzM5F4b-0&usqp=CAU",
+    "filename": "officegifs.zip",
+    "hash": "QmZxNgNT5wFkr3TZW2FqAHqCuifpumm7C69db1S2XmeiKV"
+  },
+  {
+    "id": 2,
+    "name": "Big Bang Theory Gif Pack",
+    "price": "1.5",
+    "image_url": "https://cdn.onebauer.media/one/empire-images/articles/588557fa97cb033a05630a04/sheldon-big-bang.jpg?format=jpg&quality=80&width=440&ratio=1-1&resize=aspectfit",
+    "description": "Amazing Sheldon Gifs",
+    "filename": "bbtgifs.zip",
+    "hash": "QmW6Xpx9Gb8TMCrfxoSxUKkntRTAfZFCNxrMAHYsWKxQQq"
+  }
+]
